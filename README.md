@@ -1,7 +1,7 @@
 # albatross\_experiments\_20250404
 Experiments of Albatross conducted in 4th April 2025
 
-# Ornanization
+# Organization
 - data.tar.gz
     - CNF files
 - log.tar.gz
