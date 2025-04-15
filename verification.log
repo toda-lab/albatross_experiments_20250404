@@ -1,0 +1,476 @@
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+Verifying ./data/22710-5-100-0.7-13-False.cnf log/1/albatross+zalbatross/2/22710/3/5/4/100/5/0.7/6/13/7/False/8/22710-5-100-0.7-13-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+Verifying ./data/22710-5-100-0.7-14-False.cnf log/1/albatross+zalbatross/2/22710/3/5/4/100/5/0.7/6/14/7/False/8/22710-5-100-0.7-14-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+Verifying ./data/22710-5-100-0.8-14-False.cnf log/1/albatross+zalbatross/2/22710/3/5/4/100/5/0.8/6/14/7/False/8/22710-5-100-0.8-14-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+Verifying ./data/22710-5-100-0.8-13-False.cnf log/1/albatross+zalbatross/2/22710/3/5/4/100/5/0.8/6/13/7/False/8/22710-5-100-0.8-13-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+Verifying ./data/22710-5-100-0.9-13-False.cnf log/1/albatross+zalbatross/2/22710/3/5/4/100/5/0.9/6/13/7/False/8/22710-5-100-0.9-13-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+Verifying ./data/22710-5-100-0.9-14-False.cnf log/1/albatross+zalbatross/2/22710/3/5/4/100/5/0.9/6/14/7/False/8/22710-5-100-0.9-14-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+Verifying ./data/22710-5-100-0.9-15-False.cnf log/1/albatross+zalbatross/2/22710/3/5/4/100/5/0.9/6/15/7/False/8/22710-5-100-0.9-15-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+Verifying ./data/22710-5-100-0.9-16-False.cnf log/1/albatross+zalbatross/2/22710/3/5/4/100/5/0.9/6/16/7/False/8/22710-5-100-0.9-16-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+Verifying ./data/22710-5-100-0.5-13-False.cnf log/1/albatross+zalbatross/2/22710/3/5/4/100/5/0.5/6/13/7/False/8/22710-5-100-0.5-13-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+Verifying ./data/22710-5-100-0.5-14-False.cnf log/1/albatross+zalbatross/2/22710/3/5/4/100/5/0.5/6/14/7/False/8/22710-5-100-0.5-14-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+Verifying ./data/22710-5-100-0.6-13-False.cnf log/1/albatross+zalbatross/2/22710/3/5/4/100/5/0.6/6/13/7/False/8/22710-5-100-0.6-13-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+Verifying ./data/22710-5-100-0.6-14-False.cnf log/1/albatross+zalbatross/2/22710/3/5/4/100/5/0.6/6/14/7/False/8/22710-5-100-0.6-14-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+Verifying ./data/22710-5-100-0.6-15-False.cnf log/1/albatross+zalbatross/2/22710/3/5/4/100/5/0.6/6/15/7/False/8/22710-5-100-0.6-15-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+Verifying ./data/43018-5-100-0.7-13-False.cnf log/1/albatross+zalbatross/2/43018/3/5/4/100/5/0.7/6/13/7/False/8/43018-5-100-0.7-13-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+Verifying ./data/43018-5-100-0.8-14-False.cnf log/1/albatross+zalbatross/2/43018/3/5/4/100/5/0.8/6/14/7/False/8/43018-5-100-0.8-14-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+Verifying ./data/43018-5-100-0.8-13-False.cnf log/1/albatross+zalbatross/2/43018/3/5/4/100/5/0.8/6/13/7/False/8/43018-5-100-0.8-13-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+Verifying ./data/43018-5-100-0.9-13-False.cnf log/1/albatross+zalbatross/2/43018/3/5/4/100/5/0.9/6/13/7/False/8/43018-5-100-0.9-13-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+Verifying ./data/43018-5-100-0.9-17-False.cnf log/1/albatross+zalbatross/2/43018/3/5/4/100/5/0.9/6/17/7/False/8/43018-5-100-0.9-17-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+Verifying ./data/43018-5-100-0.9-14-False.cnf log/1/albatross+zalbatross/2/43018/3/5/4/100/5/0.9/6/14/7/False/8/43018-5-100-0.9-14-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+Verifying ./data/43018-5-100-0.9-15-False.cnf log/1/albatross+zalbatross/2/43018/3/5/4/100/5/0.9/6/15/7/False/8/43018-5-100-0.9-15-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+Verifying ./data/43018-5-100-0.9-16-False.cnf log/1/albatross+zalbatross/2/43018/3/5/4/100/5/0.9/6/16/7/False/8/43018-5-100-0.9-16-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+Verifying ./data/43018-5-100-0.5-13-False.cnf log/1/albatross+zalbatross/2/43018/3/5/4/100/5/0.5/6/13/7/False/8/43018-5-100-0.5-13-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+Verifying ./data/43018-5-100-0.6-13-False.cnf log/1/albatross+zalbatross/2/43018/3/5/4/100/5/0.6/6/13/7/False/8/43018-5-100-0.6-13-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+Verifying ./data/81023-5-100-0.7-13-False.cnf log/1/albatross+zalbatross/2/81023/3/5/4/100/5/0.7/6/13/7/False/8/81023-5-100-0.7-13-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+Verifying ./data/81023-5-100-0.8-14-False.cnf log/1/albatross+zalbatross/2/81023/3/5/4/100/5/0.8/6/14/7/False/8/81023-5-100-0.8-14-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+Verifying ./data/81023-5-100-0.8-13-False.cnf log/1/albatross+zalbatross/2/81023/3/5/4/100/5/0.8/6/13/7/False/8/81023-5-100-0.8-13-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+Verifying ./data/81023-5-100-0.9-13-False.cnf log/1/albatross+zalbatross/2/81023/3/5/4/100/5/0.9/6/13/7/False/8/81023-5-100-0.9-13-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+Verifying ./data/81023-5-100-0.9-14-False.cnf log/1/albatross+zalbatross/2/81023/3/5/4/100/5/0.9/6/14/7/False/8/81023-5-100-0.9-14-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+Verifying ./data/81023-5-100-0.9-15-False.cnf log/1/albatross+zalbatross/2/81023/3/5/4/100/5/0.9/6/15/7/False/8/81023-5-100-0.9-15-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+Verifying ./data/81023-5-100-0.9-16-False.cnf log/1/albatross+zalbatross/2/81023/3/5/4/100/5/0.9/6/16/7/False/8/81023-5-100-0.9-16-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+Verifying ./data/81023-5-100-0.5-13-False.cnf log/1/albatross+zalbatross/2/81023/3/5/4/100/5/0.5/6/13/7/False/8/81023-5-100-0.5-13-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+Verifying ./data/81023-5-100-0.6-13-False.cnf log/1/albatross+zalbatross/2/81023/3/5/4/100/5/0.6/6/13/7/False/8/81023-5-100-0.6-13-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+Verifying ./data/81023-5-100-0.6-14-False.cnf log/1/albatross+zalbatross/2/81023/3/5/4/100/5/0.6/6/14/7/False/8/81023-5-100-0.6-14-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+Verifying ./data/42462-5-100-0.6-13-False.cnf log/1/albatross+zalbatross/2/42462/3/5/4/100/5/0.6/6/13/7/False/8/42462-5-100-0.6-13-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+Verifying ./data/42462-5-100-0.7-14-False.cnf log/1/albatross+zalbatross/2/42462/3/5/4/100/5/0.7/6/14/7/False/8/42462-5-100-0.7-14-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+Verifying ./data/42462-5-100-0.7-13-False.cnf log/1/albatross+zalbatross/2/42462/3/5/4/100/5/0.7/6/13/7/False/8/42462-5-100-0.7-13-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+Verifying ./data/42462-5-100-0.8-13-False.cnf log/1/albatross+zalbatross/2/42462/3/5/4/100/5/0.8/6/13/7/False/8/42462-5-100-0.8-13-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+Verifying ./data/42462-5-100-0.8-14-False.cnf log/1/albatross+zalbatross/2/42462/3/5/4/100/5/0.8/6/14/7/False/8/42462-5-100-0.8-14-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+Verifying ./data/42462-5-100-0.5-13-False.cnf log/1/albatross+zalbatross/2/42462/3/5/4/100/5/0.5/6/13/7/False/8/42462-5-100-0.5-13-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+Verifying ./data/42462-5-100-0.5-14-False.cnf log/1/albatross+zalbatross/2/42462/3/5/4/100/5/0.5/6/14/7/False/8/42462-5-100-0.5-14-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+Verifying ./data/42462-5-100-0.9-16-False.cnf log/1/albatross+zalbatross/2/42462/3/5/4/100/5/0.9/6/16/7/False/8/42462-5-100-0.9-16-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+Verifying ./data/42462-5-100-0.9-13-False.cnf log/1/albatross+zalbatross/2/42462/3/5/4/100/5/0.9/6/13/7/False/8/42462-5-100-0.9-13-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+Verifying ./data/42462-5-100-0.9-17-False.cnf log/1/albatross+zalbatross/2/42462/3/5/4/100/5/0.9/6/17/7/False/8/42462-5-100-0.9-17-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+Verifying ./data/42462-5-100-0.9-14-False.cnf log/1/albatross+zalbatross/2/42462/3/5/4/100/5/0.9/6/14/7/False/8/42462-5-100-0.9-14-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+Verifying ./data/42462-5-100-0.9-15-False.cnf log/1/albatross+zalbatross/2/42462/3/5/4/100/5/0.9/6/15/7/False/8/42462-5-100-0.9-15-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+Verifying ./data/65828-5-100-0.6-15-False.cnf log/1/albatross+zalbatross/2/65828/3/5/4/100/5/0.6/6/15/7/False/8/65828-5-100-0.6-15-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+Verifying ./data/65828-5-100-0.6-13-False.cnf log/1/albatross+zalbatross/2/65828/3/5/4/100/5/0.6/6/13/7/False/8/65828-5-100-0.6-13-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+Verifying ./data/65828-5-100-0.6-14-False.cnf log/1/albatross+zalbatross/2/65828/3/5/4/100/5/0.6/6/14/7/False/8/65828-5-100-0.6-14-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+Verifying ./data/65828-5-100-0.7-14-False.cnf log/1/albatross+zalbatross/2/65828/3/5/4/100/5/0.7/6/14/7/False/8/65828-5-100-0.7-14-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+Verifying ./data/65828-5-100-0.7-13-False.cnf log/1/albatross+zalbatross/2/65828/3/5/4/100/5/0.7/6/13/7/False/8/65828-5-100-0.7-13-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+Verifying ./data/65828-5-100-0.8-13-False.cnf log/1/albatross+zalbatross/2/65828/3/5/4/100/5/0.8/6/13/7/False/8/65828-5-100-0.8-13-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+Verifying ./data/65828-5-100-0.8-14-False.cnf log/1/albatross+zalbatross/2/65828/3/5/4/100/5/0.8/6/14/7/False/8/65828-5-100-0.8-14-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+Verifying ./data/65828-5-100-0.8-15-False.cnf log/1/albatross+zalbatross/2/65828/3/5/4/100/5/0.8/6/15/7/False/8/65828-5-100-0.8-15-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+Verifying ./data/65828-5-100-0.9-13-False.cnf log/1/albatross+zalbatross/2/65828/3/5/4/100/5/0.9/6/13/7/False/8/65828-5-100-0.9-13-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+Verifying ./data/65828-5-100-0.9-14-False.cnf log/1/albatross+zalbatross/2/65828/3/5/4/100/5/0.9/6/14/7/False/8/65828-5-100-0.9-14-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+Verifying ./data/65828-5-100-0.9-15-False.cnf log/1/albatross+zalbatross/2/65828/3/5/4/100/5/0.9/6/15/7/False/8/65828-5-100-0.9-15-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+Verifying ./data/65828-5-100-0.5-13-False.cnf log/1/albatross+zalbatross/2/65828/3/5/4/100/5/0.5/6/13/7/False/8/65828-5-100-0.5-13-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+Verifying ./data/65828-5-100-0.5-14-False.cnf log/1/albatross+zalbatross/2/65828/3/5/4/100/5/0.5/6/14/7/False/8/65828-5-100-0.5-14-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+Verifying ./data/18735-5-100-0.5-13-False.cnf log/1/albatross+zalbatross/2/18735/3/5/4/100/5/0.5/6/13/7/False/8/18735-5-100-0.5-13-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+Verifying ./data/18735-5-100-0.5-14-False.cnf log/1/albatross+zalbatross/2/18735/3/5/4/100/5/0.5/6/14/7/False/8/18735-5-100-0.5-14-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+Verifying ./data/18735-5-100-0.9-15-False.cnf log/1/albatross+zalbatross/2/18735/3/5/4/100/5/0.9/6/15/7/False/8/18735-5-100-0.9-15-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+Verifying ./data/18735-5-100-0.9-16-False.cnf log/1/albatross+zalbatross/2/18735/3/5/4/100/5/0.9/6/16/7/False/8/18735-5-100-0.9-16-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+Verifying ./data/18735-5-100-0.9-13-False.cnf log/1/albatross+zalbatross/2/18735/3/5/4/100/5/0.9/6/13/7/False/8/18735-5-100-0.9-13-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+Verifying ./data/18735-5-100-0.9-14-False.cnf log/1/albatross+zalbatross/2/18735/3/5/4/100/5/0.9/6/14/7/False/8/18735-5-100-0.9-14-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+Verifying ./data/18735-5-100-0.6-13-False.cnf log/1/albatross+zalbatross/2/18735/3/5/4/100/5/0.6/6/13/7/False/8/18735-5-100-0.6-13-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+Verifying ./data/18735-5-100-0.7-13-False.cnf log/1/albatross+zalbatross/2/18735/3/5/4/100/5/0.7/6/13/7/False/8/18735-5-100-0.7-13-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+Verifying ./data/18735-5-100-0.7-14-False.cnf log/1/albatross+zalbatross/2/18735/3/5/4/100/5/0.7/6/14/7/False/8/18735-5-100-0.7-14-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+Verifying ./data/18735-5-100-0.8-16-False.cnf log/1/albatross+zalbatross/2/18735/3/5/4/100/5/0.8/6/16/7/False/8/18735-5-100-0.8-16-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+Verifying ./data/18735-5-100-0.8-13-False.cnf log/1/albatross+zalbatross/2/18735/3/5/4/100/5/0.8/6/13/7/False/8/18735-5-100-0.8-13-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+Verifying ./data/18735-5-100-0.8-14-False.cnf log/1/albatross+zalbatross/2/18735/3/5/4/100/5/0.8/6/14/7/False/8/18735-5-100-0.8-14-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+Verifying ./data/18735-5-100-0.8-15-False.cnf log/1/albatross+zalbatross/2/18735/3/5/4/100/5/0.8/6/15/7/False/8/18735-5-100-0.8-15-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+Verifying ./data/78144-5-100-0.9-15-False.cnf log/1/albatross+zalbatross/2/78144/3/5/4/100/5/0.9/6/15/7/False/8/78144-5-100-0.9-15-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+Verifying ./data/78144-5-100-0.9-16-False.cnf log/1/albatross+zalbatross/2/78144/3/5/4/100/5/0.9/6/16/7/False/8/78144-5-100-0.9-16-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+Verifying ./data/78144-5-100-0.9-13-False.cnf log/1/albatross+zalbatross/2/78144/3/5/4/100/5/0.9/6/13/7/False/8/78144-5-100-0.9-13-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+Verifying ./data/78144-5-100-0.9-17-False.cnf log/1/albatross+zalbatross/2/78144/3/5/4/100/5/0.9/6/17/7/False/8/78144-5-100-0.9-17-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+Verifying ./data/78144-5-100-0.9-14-False.cnf log/1/albatross+zalbatross/2/78144/3/5/4/100/5/0.9/6/14/7/False/8/78144-5-100-0.9-14-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+Verifying ./data/78144-5-100-0.5-15-False.cnf log/1/albatross+zalbatross/2/78144/3/5/4/100/5/0.5/6/15/7/False/8/78144-5-100-0.5-15-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+Verifying ./data/78144-5-100-0.5-13-False.cnf log/1/albatross+zalbatross/2/78144/3/5/4/100/5/0.5/6/13/7/False/8/78144-5-100-0.5-13-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+Verifying ./data/78144-5-100-0.5-14-False.cnf log/1/albatross+zalbatross/2/78144/3/5/4/100/5/0.5/6/14/7/False/8/78144-5-100-0.5-14-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+Verifying ./data/78144-5-100-0.6-13-False.cnf log/1/albatross+zalbatross/2/78144/3/5/4/100/5/0.6/6/13/7/False/8/78144-5-100-0.6-13-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+Verifying ./data/78144-5-100-0.7-13-False.cnf log/1/albatross+zalbatross/2/78144/3/5/4/100/5/0.7/6/13/7/False/8/78144-5-100-0.7-13-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+Verifying ./data/78144-5-100-0.7-14-False.cnf log/1/albatross+zalbatross/2/78144/3/5/4/100/5/0.7/6/14/7/False/8/78144-5-100-0.7-14-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+Verifying ./data/78144-5-100-0.8-13-False.cnf log/1/albatross+zalbatross/2/78144/3/5/4/100/5/0.8/6/13/7/False/8/78144-5-100-0.8-13-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+Verifying ./data/78144-5-100-0.8-14-False.cnf log/1/albatross+zalbatross/2/78144/3/5/4/100/5/0.8/6/14/7/False/8/78144-5-100-0.8-14-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+Verifying ./data/53188-5-100-0.8-13-False.cnf log/1/albatross+zalbatross/2/53188/3/5/4/100/5/0.8/6/13/7/False/8/53188-5-100-0.8-13-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+Verifying ./data/53188-5-100-0.8-14-False.cnf log/1/albatross+zalbatross/2/53188/3/5/4/100/5/0.8/6/14/7/False/8/53188-5-100-0.8-14-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+Verifying ./data/53188-5-100-0.9-14-False.cnf log/1/albatross+zalbatross/2/53188/3/5/4/100/5/0.9/6/14/7/False/8/53188-5-100-0.9-14-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+Verifying ./data/53188-5-100-0.9-15-False.cnf log/1/albatross+zalbatross/2/53188/3/5/4/100/5/0.9/6/15/7/False/8/53188-5-100-0.9-15-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+Verifying ./data/53188-5-100-0.9-16-False.cnf log/1/albatross+zalbatross/2/53188/3/5/4/100/5/0.9/6/16/7/False/8/53188-5-100-0.9-16-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+Verifying ./data/53188-5-100-0.9-13-False.cnf log/1/albatross+zalbatross/2/53188/3/5/4/100/5/0.9/6/13/7/False/8/53188-5-100-0.9-13-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+Verifying ./data/53188-5-100-0.9-17-False.cnf log/1/albatross+zalbatross/2/53188/3/5/4/100/5/0.9/6/17/7/False/8/53188-5-100-0.9-17-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+Verifying ./data/53188-5-100-0.5-13-False.cnf log/1/albatross+zalbatross/2/53188/3/5/4/100/5/0.5/6/13/7/False/8/53188-5-100-0.5-13-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+Verifying ./data/53188-5-100-0.6-13-False.cnf log/1/albatross+zalbatross/2/53188/3/5/4/100/5/0.6/6/13/7/False/8/53188-5-100-0.6-13-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+Verifying ./data/53188-5-100-0.7-13-False.cnf log/1/albatross+zalbatross/2/53188/3/5/4/100/5/0.7/6/13/7/False/8/53188-5-100-0.7-13-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+Verifying ./data/50408-5-100-0.8-13-False.cnf log/1/albatross+zalbatross/2/50408/3/5/4/100/5/0.8/6/13/7/False/8/50408-5-100-0.8-13-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+Verifying ./data/50408-5-100-0.8-14-False.cnf log/1/albatross+zalbatross/2/50408/3/5/4/100/5/0.8/6/14/7/False/8/50408-5-100-0.8-14-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+Verifying ./data/50408-5-100-0.9-14-False.cnf log/1/albatross+zalbatross/2/50408/3/5/4/100/5/0.9/6/14/7/False/8/50408-5-100-0.9-14-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+Verifying ./data/50408-5-100-0.9-15-False.cnf log/1/albatross+zalbatross/2/50408/3/5/4/100/5/0.9/6/15/7/False/8/50408-5-100-0.9-15-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+Verifying ./data/50408-5-100-0.9-16-False.cnf log/1/albatross+zalbatross/2/50408/3/5/4/100/5/0.9/6/16/7/False/8/50408-5-100-0.9-16-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+Verifying ./data/50408-5-100-0.9-13-False.cnf log/1/albatross+zalbatross/2/50408/3/5/4/100/5/0.9/6/13/7/False/8/50408-5-100-0.9-13-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+Verifying ./data/50408-5-100-0.9-17-False.cnf log/1/albatross+zalbatross/2/50408/3/5/4/100/5/0.9/6/17/7/False/8/50408-5-100-0.9-17-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+Verifying ./data/50408-5-100-0.6-13-False.cnf log/1/albatross+zalbatross/2/50408/3/5/4/100/5/0.6/6/13/7/False/8/50408-5-100-0.6-13-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+Verifying ./data/50408-5-100-0.7-13-False.cnf log/1/albatross+zalbatross/2/50408/3/5/4/100/5/0.7/6/13/7/False/8/50408-5-100-0.7-13-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+Verifying ./data/50408-5-100-0.7-14-False.cnf log/1/albatross+zalbatross/2/50408/3/5/4/100/5/0.7/6/14/7/False/8/50408-5-100-0.7-14-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+Verifying ./data/50408-5-100-0.7-15-False.cnf log/1/albatross+zalbatross/2/50408/3/5/4/100/5/0.7/6/15/7/False/8/50408-5-100-0.7-15-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+Verifying ./data/71681-5-100-0.8-15-False.cnf log/1/albatross+zalbatross/2/71681/3/5/4/100/5/0.8/6/15/7/False/8/71681-5-100-0.8-15-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+Verifying ./data/71681-5-100-0.8-13-False.cnf log/1/albatross+zalbatross/2/71681/3/5/4/100/5/0.8/6/13/7/False/8/71681-5-100-0.8-13-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+Verifying ./data/71681-5-100-0.8-14-False.cnf log/1/albatross+zalbatross/2/71681/3/5/4/100/5/0.8/6/14/7/False/8/71681-5-100-0.8-14-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+Verifying ./data/71681-5-100-0.9-14-False.cnf log/1/albatross+zalbatross/2/71681/3/5/4/100/5/0.9/6/14/7/False/8/71681-5-100-0.9-14-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+Verifying ./data/71681-5-100-0.9-15-False.cnf log/1/albatross+zalbatross/2/71681/3/5/4/100/5/0.9/6/15/7/False/8/71681-5-100-0.9-15-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+Verifying ./data/71681-5-100-0.9-13-False.cnf log/1/albatross+zalbatross/2/71681/3/5/4/100/5/0.9/6/13/7/False/8/71681-5-100-0.9-13-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+Verifying ./data/71681-5-100-0.5-13-False.cnf log/1/albatross+zalbatross/2/71681/3/5/4/100/5/0.5/6/13/7/False/8/71681-5-100-0.5-13-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+Verifying ./data/71681-5-100-0.6-13-False.cnf log/1/albatross+zalbatross/2/71681/3/5/4/100/5/0.6/6/13/7/False/8/71681-5-100-0.6-13-False.cnf/stdout
+[passed] the 1st-stage verification
+[passed] the 2nd-stage verification
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
+[warning] skipped because of satisfiable instance
